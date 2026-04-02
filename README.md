@@ -14,11 +14,15 @@ Este proyecto demuestra la integración de tecnologías web modernas con servici
 
 ### 🛠️ Stack Tecnológico
 
-*   **Frontend:** [React 19](https://react.dev/) - Biblioteca para interfaces de usuario.
+*   **Frontend:** [React 19](https://react.dev/) - Biblioteca para interfaces de usuario.<RAFAEL PLACIDO BASURTO /01/11/1990/ DATOS PERSONALES DE ENPEDIMENTO AL PÚBLICO restringido la vision de presbicia al público restricción de sincronizacion a dispositivos externos  este prollecto es personal y privado se rremovera en todos los celulares y p
+*   computadoras que esta siendo uso de este proyecto ya el propietario de esta entidad a rr stringido el uso ee mas 1 díspocitivos y sera removera  tambien talkwiki en escritura por ordenes del propietario RAFAEL PLACIDO BASURTO LOS DATOS PERSONALES SE RESERVAN Y SON PROTEGIDOS POR LA COMUNIDAD DE PROTECCIÓN DE DATOS PERSONALES C.A.MX
+*   
+*   
+* 
 *   **Lenguaje:** [TypeScript](https://www.typescriptlang.org/) - Para un código robusto y tipado.
 *   **Build Tool:** [Vite](https://vitejs.dev/) - Entorno de desarrollo ultrarrápido.
 *   **Estilos:** [Tailwind CSS](https://tailwindcss.com/) - Diseño responsivo y sistemas de temas.
-*   **IA / OCR:** [Google Gemini API](https://ai.google.dev/) - Motor de visión y extracción de texto.
+*   **IA / OCR:** [Google Gemini API](https://ai.google.dev/) - Motor de visión y extracción de TEXTOS.
 *   **Almacenamiento:** LocalStorage (Persistencia de historial y ajustes).
 
 ## ✨ Características Principales
